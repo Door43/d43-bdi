@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bdi:home|Door43 (bdi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bdi|d43-bdi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bdi/archive/master.zip|d43-bdi.zip]]
+
+**Recent Changes**
+{{changes>ns = bdi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bdi|Ethnologue data]]
+
